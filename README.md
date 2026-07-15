@@ -6,13 +6,13 @@ HTSApp, C# Windows Forms kullanılarak geliştirilmiş bir Hasta Takip Sistemi u
 Bu proje kapsamında kullanıcı giriş sistemi, hasta kayıt işlemleri, verilerin listelenmesi ve veritabanı ile etkileşim gibi temel fonksiyonlar geliştirilmiştir.
 
 **Kullanılan Teknolojiler**
-C#
-.NET Framework
-Windows Forms (WinForms)
-Microsoft SQL Server
-ADO.NET
-SQL (Stored Procedure)
-Visual Studio
+-C#
+-.NET Framework
+-Windows Forms (WinForms)
+-Microsoft SQL Server
+-ADO.NET
+-SQL (Stored Procedure)
+-Visual Studio
 
 **Amaç**
 Bu projeyi geliştirirken masaüstü uygulama geliştirme sürecini öğrenmeyi, SQL Server ile veritabanı işlemlerini yönetmeyi ve ADO.NET kullanarak C# ile veritabanı arasında bağlantı kurmayı hedefledim.
