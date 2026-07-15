@@ -16,6 +16,7 @@ Bu proje kapsamında kullanıcı giriş sistemi, hasta kayıt işlemleri, verile
 -Microsoft SQL Server
 
 -ADO.NET
+
 -SQL (Stored Procedure)
 
 -Visual Studio
